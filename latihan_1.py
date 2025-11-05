@@ -1,4 +1,6 @@
-# Lazzuardi Langga Duta Wijaya - 2501667 - 1A
+# Lazzuardi Langga Duta Wijaya
+# 2501667
+# RPL 1-A
 
 # soal 1
 def fibonacci(n):
